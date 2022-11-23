@@ -54,4 +54,4 @@
         console.log(`Une erreur est survenue: ${error}`);
       })
   }
-  affichageDesProduits(); /* excution fonction */
+  affichageDesProduits(); 
